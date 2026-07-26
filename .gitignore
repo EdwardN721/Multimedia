@@ -1,0 +1,13 @@
+.vs/
+
+Multimedia.API/obj/*
+Multimedia.API/bin/*
+
+Multimedia.Application/bin/*
+Multimedia.Application/obj/*
+
+Multimedia.Infrastructure/bin/*
+Multimedia.Infrastructure/obj/*
+
+Multimedia.Domain/bin/*
+Multimedia.Domain/obj/*

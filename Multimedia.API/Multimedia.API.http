@@ -1,0 +1,6 @@
+@Multimedia.API_HostAddress = http://localhost:5102
+
+GET {{Multimedia.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
