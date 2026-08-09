@@ -16,5 +16,4 @@ public class Usuario : ISoftDeletable, IAuditable
     public DateTimeOffset? FechaModificacion { get; set; }
 
     public Rol Rol { get; set; } = null!;
-    public ICollection<Biblioteca> Bibliotecas { get; set; } = new List<Biblioteca>();
 }

@@ -1,7 +1,7 @@
-using Microsoft.EntityFrameworkCore;
 using Multimedia.Domain.Models;
-using Multimedia.Domain.Models.Catalogo;
+using Microsoft.EntityFrameworkCore;
 using Multimedia.Domain.Models.Dominio;
+using Multimedia.Domain.Models.Catalogo;
 
 namespace Multimedia.Infrastructure.Persistence;
 
